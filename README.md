@@ -11,8 +11,8 @@ you have to come up with a strategy for the go-to market team of Porch Media.
 
 # You will need to perform the following steps:
 
-*  Explore and analyze the data, and identify any patterns, trends, or insights that can help Porch Media improve their product campaigns.
-*  Build a machine learning model (prophensity modelling techniques) that can predict the conversion rate , based on the features of the property.
+*  Explore and analyze the data, and identify any patterns, trends, or insights that can help Porch Media improve our product campaigns.
+*  Build a machine learning model (prophensity modelling techniques) that can predict the clients behavior , based on the features of the property.
 *  Evaluate the performance of your model, and explain how you chose the evaluation metrics and the validation method.
 *  Generate some recommendations for the go-to market team, based on your analysis and model results, 
    on how to optimize their marketing strategy for different types of properties and audiences.
