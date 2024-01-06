@@ -6,6 +6,7 @@ and potentially join our team as an intern.
 Your task is to use the [dataset](https://github.com/porchmedia/Internship-Challenge/blob/main/internship-challenge%20.csv) provided by Porch Media,
 which contains information about various properties,
 you have to come up with a strategy for the go-to market team of Porch Media.
+
 ![](1000001536.gif)
 
 
